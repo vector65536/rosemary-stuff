@@ -15,6 +15,7 @@
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
 | [Project Sakura](https://t.me/Rosemary_Community/606174) | [mysellysenpai](https://t.me/@mysellysenpai) |     [G Drive](https://drive.google.com/file/d/1TFGoI7toSDbwaAWUROdW3sNT4RW8Lx0Q/view?usp=drivesdk)         | 2024-08-18 |   ❌     |  ❌  |
+| [CrDroid](https://t.me/Rosemary_Community/613328) | [mysellysenpai](https://t.me/@mysellysenpai) | [TG Link](https://t.me/Rosemary_Community/613328) | 2024-10-05 | ❌ | ❌ |
 | ... | ... | ...  | ... | ... | ... |
 
 ***

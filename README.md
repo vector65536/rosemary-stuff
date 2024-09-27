@@ -21,8 +21,9 @@
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
-| [Project Sakura](https://t.me/Rosemary_Community/606174) | [mysellysenpai](https://t.me/@mysellysenpai) |     [G Drive](https://drive.google.com/file/d/1TFGoI7toSDbwaAWUROdW3sNT4RW8Lx0Q/view?usp=drivesdk)         | 2024-08-18 |   ❌     |  ❌  |
+| [Project Sakura](https://t.me/Rosemary_Community/606174) | mysellysenpai |     [G Drive](https://drive.google.com/file/d/1TFGoI7toSDbwaAWUROdW3sNT4RW8Lx0Q/view?usp=drivesdk)         | 2024-08-18 |   ❌     |  ❌  |
 | [Lineage OS 21](https://wiki.lineageos.org/devices/rosemary/install/variant1/) | lineageos.org | [~[lineageos.org](https://download.lineageos.org/devices/rosemary/builds)~] [[Alt](https://lineage-archive.timschumi.net/#rosemary)] | 2024-04-18 | ✅ | ⚠️ |
+| [CrDroid](https://crdroid.net/rosemary/) | crdroid.net | [Download](https://crdroid.net/rosemary/10) | 2024-02-18 | ✅ | ⚠️ |
 | ... | ... | ...  | ... | ... | ... |
 
 ***
@@ -31,9 +32,9 @@
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
-| Pixel Experience | [jhenrique09](https://t.me/jhenrique09) |     [Download](https://get.pixelexperience.org/rosemary)      | 2023-08-18  |    ✅     |  ⚠️   |
-| [Havoc OS](https://t.me/Rosemary_Update/427?comment=122764) | [saweria on xyzuniverse](https://saweria.co/xyzuniverse) |     [Download](https://devuploads.com/4tvcjcgzd69a) | 2023-07-15  |    ❌     |  ❌   |
-| [CrDroid](https://t.me/Rosemary_Community/613328) | [mysellysenpai](https://t.me/@mysellysenpai) | [TG Link](https://t.me/Rosemary_Community/613328) | 2024-10-05 | ❌ | ❌ |
+| [Pixel Experience](https://get.pixelexperience.org/rosemary) | jhenrique09 | [Download](https://get.pixelexperience.org/rosemary)      | 2023-08-18  |    ✅     |  ⚠️   |
+| [Havoc OS](https://t.me/Rosemary_Update/427?comment=122764) | xyzuniverse | [Download](https://devuploads.com/4tvcjcgzd69a) | 2023-07-15  |    ❌     |  ❌   |
+| [CrDroid](https://t.me/Rosemary_Community/613328) | mysellysenpai | [TG Link](https://t.me/Rosemary_Community/613328) | 2024-10-05 | ❌ | ❌ |
 | [Lineage OS 20](https://wiki.lineageos.org/devices/rosemary/install/variant1/) | lineageos.org | [~[lineageos.org](https://download.lineageos.org/devices/rosemary/builds)~] [[Alt](https://lineage-archive.timschumi.net/#rosemary)] | 2023-10-07 | ✅ | ⚠️ |
 | ... | ... | ...  | ... | ... | ... |
 

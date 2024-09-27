@@ -1,12 +1,19 @@
 ## Rosemary Stuff. Stock ROMs, Custom ROMs, recovery images, Kernels, Guides.
 
 > Disclaimer
->> (1) Your warranty is now void.
+> 
+> (1) Your warranty is now void.
   I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in those ROMs before flashing! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
->> 
->> (2) I do not own the content(s) published in this group. All credit goes to the respective owners/developers.
+> 
+> (2) I do not own the content(s) published in this repo. All credit goes to the respective owners/developers.
 
 #### [Telegram Community](https://web.telegram.org/k/#@Rosemary_Community) | [TG Client](https://github.com/forkgram/TelegramAndroid/)
+
+***
+
+#### Stock Roms 
+
+[ [Link1](https://mirom.ezbox.idv.tw/en/phone/rosemary/) ]  [ [Link2](https://mifirm.net/model/rosemary.ttt#) ]
 
 ***
 
@@ -41,14 +48,6 @@
 
 ***
 
-### Stock Roms 
-
-Link1: [https://mirom.ezbox.idv.tw/en/phone/rosemary/](https://mirom.ezbox.idv.tw/en/phone/rosemary/)
-
-Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemary.ttt#)
-
-***
-
 ### Kernels
 
 |                         Kernel name                          | Updated | Supported Android Version | Linux Kernel Version |   Supported Roms   |                        Download Link                         |
@@ -62,16 +61,6 @@ Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemar
 Telegram Link: [rosemary_recoveries](https://web.telegram.org/k/#@rosemary_recoveries)
 
 ***
-
-### 🔧 Tools  
-
-|        Tool         |  Version   |                           Download                           |
-| :-----------------: | :--------: | :----------------------------------------------------------: |
-| Mi Flash tool amd64 | 2016.04.01 | [GitHub](https://github.com/Caticer/rosemary-stuff/raw/master/tools/MiPhone.exe) |
-|    Mi Flash tool    | v20210226  | [GitHub](https://github.com/Caticer/rosemary-stuff/raw/master/tools/MiFlash.7z) |
-|        QPTS         |  2.7.496   | [GitHub](https://github.com/Caticer/rosemary-stuff/raw/master/tools/QPST.7z) |
-
-*** 
 
 ### Guides
 

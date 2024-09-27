@@ -12,8 +12,8 @@
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
-| [Pixel Experience](https://get.pixelexperience.org/rosemary) | [jhenrique09](https://t.me/jhenrique09) |     [Download](https://get.pixelexperience.org/rosemary)      | 2023-08-18  |    ✅     |  ❌   |
-| [Havoc OS](https://t.me/Rosemary_Update/427?comment=122764) | [saweria](https://saweria.co/xyzuniverse) |     [Download](https://devuploads.com/4tvcjcgzd69a) - v6, A13 | 2023-07-15  |    ❌     |  ❌   |
+| [Pixel Experience](https://get.pixelexperience.org/rosemary) | [jhenrique09](https://t.me/jhenrique09) |     [Download](https://get.pixelexperience.org/rosemary)      | 2023-08-18  |    ✅     |  ⚠️   |
+| [Havoc OS](https://t.me/Rosemary_Update/427?comment=122764) | [saweria on xyzuniverse](https://saweria.co/xyzuniverse) |     [Download](https://devuploads.com/4tvcjcgzd69a) - v6, A13 | 2023-07-15  |    ❌     |  ❌   |
 
 
 

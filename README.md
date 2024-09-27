@@ -32,6 +32,8 @@ Link1: [https://mirom.ezbox.idv.tw/en/phone/rosemary/](https://mirom.ezbox.idv.t
 
 Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemary.ttt#)
 
+***
+
 ### Kernels
 
 |                         Kernel name                          | Updated | Supported Android Version | Linux Kernel Version |   Supported Roms   |                        Download Link                         |

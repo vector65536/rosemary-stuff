@@ -1,6 +1,6 @@
 ## Rosemary Stuff. Stock ROMs, Custom ROMs, recovery images, Kernels, Guides.
 
-#### [Telegram Community](https://web.telegram.org/k/#@Rosemary_Community)
+#### [Telegram Community](https://web.telegram.org/k/#@Rosemary_Community) | [TG Client](https://github.com/forkgram/TelegramAndroid/)
 
 ### Android 14 Custom Roms
 

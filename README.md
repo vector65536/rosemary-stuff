@@ -1,7 +1,7 @@
 ## Rosemary Stuff. Stock ROMs, Custom ROMs, recovery images, Kernels, Guides.
 ***
 
-### **📱Android 14 Custom Roms**
+### Android 14 Custom Roms
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
@@ -9,7 +9,7 @@
 
 ***
 
-### **📱Android 13 Custom Roms**
+### Android 13 Custom Roms
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :------: | :--: |
@@ -18,7 +18,7 @@
 
 ***
 
-### **📱Android 12 Custom Roms** 
+### Android 12 Custom Roms 
 
 |                    Rom name / Forum link                     |                          Developer                           |                        Download link                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -26,13 +26,13 @@
 
 ***
 
-### 📱 **Stock Roms **
+### Stock Roms 
 
 Link1: [https://mirom.ezbox.idv.tw/en/phone/rosemary/](https://mirom.ezbox.idv.tw/en/phone/rosemary/)
 
 Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemary.ttt#)
 
-### **📱Kernels**
+### Kernels
 
 |                         Kernel name                          | Updated | Supported Android Version | Linux Kernel Version |   Supported Roms   |                        Download Link                         |
 | :----------------------------------------------------------: | :-----: | :-----------------------: | :------------------: | :----------------: | :----------------------------------------------------------: |
@@ -40,13 +40,13 @@ Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemar
 
 ***
 
-### **Custom Recovery**
+### Custom Recovery
 
 Telegram Link: [rosemary_recoveries](https://web.telegram.org/k/#@rosemary_recoveries)
 
 ***
 
-### **🔧Tools**  
+### 🔧 Tools  
 
 |        Tool         |  Version   |                           Download                           |
 | :-----------------: | :--------: | :----------------------------------------------------------: |
@@ -56,7 +56,7 @@ Telegram Link: [rosemary_recoveries](https://web.telegram.org/k/#@rosemary_recov
 
 *** 
 
-### **Guides:**
+### Guides
 
 [Install platform-tools(ADB & Fastboot) to Windows 10](https://caticer.github.io/platformtoolswin10/)
 

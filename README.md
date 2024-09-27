@@ -1,12 +1,11 @@
 ## Rosemary Stuff. Stock ROMs, Custom ROMs, recovery images, Kernels, Guides.
 
 > Disclaimer
-Your warranty is now void.
-I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+> (1) Your warranty is now void.
+  I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this ROM before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+> (2) I do not own the content(s) published in this group. All credit goes to the respective owners/developers.****
 
 #### [Telegram Community](https://web.telegram.org/k/#@Rosemary_Community) | [TG Client](https://github.com/forkgram/TelegramAndroid/)
-
-Disclaimer: I do not own the content(s) published in this group. All credit goes to the respective owners/developers.
 
 ***
 

@@ -29,6 +29,7 @@
 ### 📱 **Stock Roms **
 
 Link1: [https://mirom.ezbox.idv.tw/en/phone/rosemary/](https://mirom.ezbox.idv.tw/en/phone/rosemary/)
+
 Link2: [https://mifirm.net/model/rosemary.ttt#](https://mifirm.net/model/rosemary.ttt#)
 
 ### **📱Kernels**

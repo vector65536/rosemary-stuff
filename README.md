@@ -2,6 +2,10 @@
 
 #### [Telegram Community](https://web.telegram.org/k/#@Rosemary_Community) | [TG Client](https://github.com/forkgram/TelegramAndroid/)
 
+Disclaimer: I do not own the content(s) published in this group. All credit goes to the respective owners/developers.
+
+***
+
 ### Android 14 Custom Roms
 
 |                    Rom name / Forum link                     |                          Maintainer                          |                        Download link                         | Last Update | Official | OTA  |
